@@ -18,6 +18,7 @@ R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld
 R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld\bin\Debug\AcMgd.dll
 R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld\bin\Debug\AecBaseMgd.dll
 R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld\bin\Debug\AeccDbMgd.dll
-R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld\obj\Debug\AutoCAD18Plugin-HelloWorld.csprojResolveAssemblyReference.cache
 R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld\obj\Debug\AutoCAD18Plugin-HelloWorld.dll
 R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\AutoCAD18Plugin-HelloWorld\obj\Debug\AutoCAD18Plugin-HelloWorld.pdb
+R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\Plugin\AutoCAD18Plugin-HelloWorld\AutoCAD18Plugin-HelloWorld.dll
+R:\GitHub\AutoCADPluginTutorial\AutoCADPluginTutorial\Plugin\AutoCAD18Plugin-HelloWorld\AutoCAD18Plugin-HelloWorld.pdb
